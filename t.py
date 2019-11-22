@@ -1,3 +1,4 @@
-def make_complex(*args):
-    x, y = args
-    return dict(**locals())
+class MyFirstClass:
+    pass
+class MySecondClass:
+    pass
